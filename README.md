@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm DevOps and System Specialist. 
+
+- 🌱 I’m currently learning Angular, Node, Docker, Docker Swarm, Kubernetes
+- 📫 How to reach me: minh [at] truong.fi
+
+
 <!--
 **olkitu/olkitu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
