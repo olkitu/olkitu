@@ -2,7 +2,7 @@
 
 I'm DevOps and System Specialist. 
 
-- 🌱 I’m currently learning Angular, Node, Docker, Docker Swarm, Kubernetes
+- 🌱 I’m currently learning AWS and GCP cloud. 
 - 📫 How to reach me: minh [at] truong.fi
 
 
