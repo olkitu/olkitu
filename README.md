@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm DevOps and System Specialist. 
+I'm Cloud Engineer.
 
-- 🌱 I’m currently learning AWS and GCP cloud. 
+- 🌱 I’m currently learning AWS and GCP cloud
 - 📫 How to reach me: minh [at] truong.fi
 
 
